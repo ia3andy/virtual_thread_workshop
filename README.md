@@ -116,7 +116,7 @@ to be pinned. Try them both out and see what the difference is between the both 
 
 <details>
 <summary>Hint</summary>
-Java 9 added an HTTP client that does not block
+Java 9 added an HTTP client that does not pin
 </details>
 
 
